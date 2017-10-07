@@ -74,7 +74,7 @@ chisqtestGC(results, graph = TRUE)
 
 Ho: There is no relationship between the effectiveness of the vaccine and whether or not the person has aids. 
 Ha:There is a relationship between the effectiveness of the vaccine and whether or not the person has aids.
-If there is no relationship between the effectiveness of the vaccine and whether or not the person has aids then is less than a 5% chance that we get a chi-square statistic as big as 3.90. Since the p-value 0.048 < 0.05, there is strong evidence that there is a relationship between the effectiveness of the vaccine and whether or not the person has aids. 
+If there is no relationship between the effectiveness of the vaccine and whether or not the person has aids, there is a little less than a 5% chance that we get a chi-square statistic as big as 3.90. Since the p-value 0.048 < 0.05, we reject the null. There is strong evidence that there is a relationship between the effectiveness of the vaccine and whether or not the person has aids. 
 
 ## Conclusions
 
