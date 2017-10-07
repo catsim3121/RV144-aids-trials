@@ -52,6 +52,8 @@ rownames(results) <- c("none","aids")
 barchartGC(results,type = "percent")
 ```
 
+The vaccine and the placebo had the same effect for people who do not have aids(50% for both). The placebo had more of an effect than the vaccine for people with aids (60% vs. 40%).
+
 ### Numerical Results
 
 <!--Display numerical evidence as to the effectiveness of the vaccine with explanations !--> 
