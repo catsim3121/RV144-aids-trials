@@ -63,8 +63,7 @@ colPerc(results)
 rowPerc(results)
 ```
 
-
-
+There is a relationship between the effectiveness of the vaccine and whether the person has aids. People who do not have aids are more likely than people with aids to be effected by the vaccine (50.07% vs. 40.80%). 
 
 ## Inferential results
 
