@@ -80,3 +80,6 @@ If there is no relationship between the effectiveness of the vaccine and whether
 ## Conclusions
 
 <Summarise your results as to the effectiveness of the vaccine with explanations that could be understood by your mom>
+
+Based on the graphical, numerical and inferential results there is strong evidence that there is a relationship between the effectiveness of the vaccine and whether or not the person has aids. 
+
